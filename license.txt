@@ -1,0 +1,58 @@
+LICENSE file for Gilda Scientific Gateways
+================================
+
+Copyright (c) 2011:
+Istituto Nazionale di Fisica Nucleare (INFN), Italy
+Consorzio COMETA (COMETA), Italy
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+3. The end-user documentation included with the redistribution, if
+any, must include the following acknowledgment: "This product includes
+software developed by INFN (http://www.infn.it) and Consorzio COMETA
+(http://www.consorzio-cometa.it)."
+Alternatively, this acknowledgment may appear in the software itself, if
+and wherever such third-party acknowledgments normally appear.
+
+4. The names INFN and Consorzio COMETA must not be
+used to endorse or promote products derived from this software without
+prior written permission. For written permission, please contact
+sg-licence(at)ct.infn.it.
+
+5. You are under no obligation whatsoever to provide anyone with any
+bug fixes, patches, or upgrades to the features, functionality or
+performance of the Software ("Enhancements") that you may develop over
+time; however, if you choose to provide your Enhancements to Gilda Scientific Gateways,
+or if you choose to otherwise publish or distribute your
+Enhancements, in source code form without contemporaneously requiring
+end users of Gilda Scientific Gateways to enter into a separate written license
+agreement for such Enhancements, then you hereby grant INFN and Consorzio COMETA
+a non-exclusive, royalty-free perpetual license to install, use, copy,
+modify, prepare derivative works, incorporate into the Gilda Scientific Gateways
+or any other computer software, distribute, and sublicense your
+Enhancements or derivative works thereof, in binary and source code
+form (if any), whether developed by INFN and Consorzio COMETA or third parties.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL PROJECT OR ITS CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
+IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+For more information on Gilda Scientific Gateways, please see
+http://gilda-forge.ct.infn.it/

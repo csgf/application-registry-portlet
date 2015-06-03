@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE data SYSTEM "chart-config.dtd">
+<charts>
+    <chart name="status">
+    <title>Status distribution</title>
+       <query>
+            <select>Count(*) as value, concat(statusName,'') as name</select>
+            <from/>
+            <where/>
+            <group>name</group>
+            </query>
+    </chart>
+
+    <chart name="domain">
+    <title>Domain distribution</title>
+        <query>
+            <select>Count(*) as value, concat(domain,'') as name</select>
+            <from/>
+            <where/>
+            <group>name</group>
+        </query>
+    </chart>
+
+    <chart name="vo">
+    <title>VO distribution</title>
+        <query>
+            <select>Count(*) as value, concat(VO,'') as name</select>
+            <from/>
+            <where/>
+            <group>name</group>
+        </query>
+    </chart>
+    <chart name="country">
+
+    <title>Country distribution</title>
+        <query>
+            <select>Count(*) as value, concat(country,'') as name</select>
+            <from/>
+            <where/>
+            <group>name</group>
+        </query>
+    </chart>
+
+       
+</charts>

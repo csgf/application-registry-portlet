@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/config.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE charts SYSTEM "config.dtd">
+
+    <charts>
+    ...
+    </charts>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT charts (chart)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT chart (query|title)*>
+<!ATTLIST chart
+    name CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT title (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT query (where|group|from|select)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT select (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT from (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT group (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT where (#PCDATA)>
