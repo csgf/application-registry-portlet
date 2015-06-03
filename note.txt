@@ -1,5 +1,0 @@
-######
-
-Il file .war si trova sotto la dir "dist"
-
-######
