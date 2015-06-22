@@ -8,8 +8,9 @@ About
 
 The DB contains the applications deployed on regional Grid infrastructures available outside Europe and developed in the context of projects funded by the European Commission.
 
-
-##Usage
+===========
+Usage
+==========
 
 Table view
 
@@ -25,7 +26,9 @@ Project specific Science Gateways can be accessed by the CHAIN AppDB
 .. image:: figures/figure3.png
    :align: center 
 
-##Support
+=========
+Support
+=========
 
 Please feel free to contact us any time if you have any questions or comments.
 
