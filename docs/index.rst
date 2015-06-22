@@ -1,6 +1,10 @@
-# Application Database Portlet
+********************************
+Application Registry Database
+********************************
 
-## About
+============
+About
+============
 
 The DB contains the applications deployed on regional Grid infrastructures available outside Europe and developed in the context of projects funded by the European Commission.
 
@@ -9,15 +13,17 @@ The DB contains the applications deployed on regional Grid infrastructures avail
 
 Table view
 
-![View all applications](figures/figure1.png)
+.. image:: figures/figure1.png
 
 Application Details
-![application details](figures/figure2.png)
 
+.. image:: figures/figure2.png
+   :align: center 
 
 Project specific Science Gateways can be accessed by the CHAIN AppDB
-![Go to SG](figures/figure3.png)
 
+.. image:: figures/figure3.png
+   :align: center 
 
 ##Support
 
@@ -27,9 +33,8 @@ Please feel free to contact us any time if you have any questions or comments.
 
 :Authors:
 
+ `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_), 
+
  `Rita RICCERI <mailto:rita.ricceri@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
  
  `Salvatore MONFORTE <mailto:salvatore.monforte@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_)
- 
-
-:Date: June 4th, 2015
